@@ -132,9 +132,7 @@ export default function App() {
 
       {/* 7. Minimal Footer */}
       <footer className="max-w-xl mx-auto px-6 pb-12 text-center text-[10px] text-gray-400 border-t border-gray-50 pt-8 mt-4">
-        <p className="mb-2">
-          This site is not endorsed by or affiliated with Meta Platforms, Inc.
-        </p>
+
         <div className="flex justify-center gap-4 underline opacity-60">
           <span>Privacy</span>
           <span>Terms</span>
